@@ -1,0 +1,10 @@
+Admin,Login,User logged in!,2023-12-15 04:24:58
+Admin,Add student,Added student ID: 12 | Student Name: Test Test,2023-12-15 04:25:49
+Admin,Add student,Added student ID: 13 | Student Name: test1 test1,2023-12-15 04:26:20
+Admin,Deleted student,Deleted student ID: 13 | Student Name: test1 test1,2023-12-15 04:26:25
+Admin,Add teacher,Added teacher ID: 5 | Teacher Name: Teacher 1 Teacher 2,2023-12-15 04:29:13
+Admin,Deleted teacher,Deleted teacher ID: 5 | Teacher Name: Teacher 1 Teacher 2,2023-12-15 04:29:22
+Admin,Add class,Added class ID: 5 | Class Name: AI,2023-12-15 04:30:21
+Admin,Deleted class,Deleted Class ID: 5 | Class Name: AI,2023-12-15 04:30:44
+Admin,Update class,Updated class ID: 4 | class name: AI,2023-12-15 04:31:08
+Admin,Logout,User logged out!,2023-12-15 04:32:34
