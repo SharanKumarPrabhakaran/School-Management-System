@@ -63,6 +63,3 @@ mvn clean install
     Email  : prabhakaran.sh@northeastern.edu
 
 
-
-## [Zoom recording link](https://pages.github.com/) 
-
